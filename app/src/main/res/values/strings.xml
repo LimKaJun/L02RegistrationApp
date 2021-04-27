@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">L02 RegistrationApp</string>
+    <string name="fullname">Fullname</string>
+    <string name="gender">Gender</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="studentid">Student_id :</string>
+    <string name="studentid1">Student_id</string>
+    <string name="school">School :</string>
+    <string name="school1">School</string>
+    <string name="email">Email :</string>
+    <string name="email1">Email</string>
+    <string name="phone">Phone :</string>
+    <string name="phone1">Phone</string>
+    <string name="submit">Submit</string>
+</resources>
